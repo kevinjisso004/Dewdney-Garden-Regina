@@ -1,0 +1,328 @@
+# Dewdney Garden — Restaurant Profile & Local SEO Content
+
+## Restaurant Information
+
+- **Restaurant Name:** Dewdney Garden
+- **Address:** 88 Cavendish St, Regina, SK S4N 5G7
+- **Phone Number:** [(306) 789-4484](tel:+13067894484)
+- **Website:** [https://dewdneygarden.ca/](https://dewdneygarden.ca/)
+- **Online Ordering:** [Order online](https://orders.iorders.online/dewdney-garden-regina-5943/)
+- **Google Business Profile:** [View Google Business Profile](https://share.google/qVqudLyNmvrC1c1ch)
+- **Google Maps:** [Get directions](https://maps.app.goo.gl/4oveDyBQqLDXfknWA)
+- **Geocode:** 50.4539802, -104.5581105
+- **Facebook Profile:** No verified official Facebook profile was identified in the available sources.
+- **Instagram Profile:** No verified official Instagram profile was identified in the available sources.
+
+> **Data-quality note:** The supplied coordinates (52.258272992510605, -113.82995598650463) do not match the Regina address. The embedded Google Maps code identifies Dewdney Garden at approximately **50.4539802, -104.5581105**, which is used above.
+
+## Operating Hours
+
+| Day | Hours |
+|---|---|
+| Monday | 4:00 p.m.–9:30 p.m. |
+| Tuesday | 4:00 p.m.–9:30 p.m. |
+| Wednesday | 4:00 p.m.–12:30 a.m. |
+| Thursday | 4:00 p.m.–12:30 a.m. |
+| Friday | 3:00 p.m.–1:30 a.m. |
+| Saturday | 3:00 p.m.–1:30 a.m. |
+| Sunday | 3:00 p.m.–9:30 p.m. |
+
+Hours should be verified directly with the restaurant before publishing because third-party listings display inconsistent closing times.
+
+## Cuisine
+
+Dewdney Garden is an **Asian-fusion restaurant** serving Chinese, Vietnamese, and Thai-inspired dishes. The menu combines classic Chinese-Canadian favourites, noodle dishes, Vietnamese vermicelli bowls, Thai-style pad Thai, soups, appetizers, and group meals.
+
+## Service Options
+
+- Online ordering through the restaurant’s direct order page
+- Takeout / pickup
+- Delivery offered directly by the restaurant
+- Late-night delivery on select days, as late as 1:30 a.m. according to the restaurant website
+- Family dinners for groups
+- Catering for larger groups
+- Gift certificates
+- Made-to-order food
+- MSG-free preparation available upon request
+
+## General Restaurant Description
+
+Dewdney Garden is a Regina Asian-fusion restaurant on Cavendish Street, serving Chinese, Vietnamese, and Thai food from one menu. Its positioning is especially strong for customers looking for fresh, made-to-order comfort food, noodles, rice dishes, appetizers, group dinners, pickup, direct delivery, and later-evening meals.
+
+The restaurant’s own website describes its food as hot and freshly made to order. It highlights chicken balls, pad Thai, wor wonton soup, Special Cantonese Chow Mein, lemongrass vermicelli, Shanghai noodles, chicken pad Thai, spring rolls, deep-fried wontons, chop suey, and family dinners. Its direct delivery service operates seven days a week, with late-night availability on certain days.
+
+### Suggested Website Description
+
+Dewdney Garden brings Chinese, Vietnamese, and Thai flavours together in one convenient Regina restaurant. From made-to-order pad Thai, Shanghai noodles, vermicelli bowls, chow mein, and wor wonton soup to classic appetizers and generous family dinners, Dewdney Garden is a local choice for pickup, direct delivery, late-night meals, catering, and casual group dining. Ask about MSG-free preparation when ordering.
+
+## Owner and Restaurant Story
+
+Business-directory information identifies **Hong Chen** as the owner and lists the business at 88 Cavendish St #A in Regina. Public restaurant listings indicate Dewdney Garden has served the local community for roughly two decades, although the exact founding date was not independently verified from a first-party source.
+
+The available first-party restaurant copy presents the business as a local Cavendish Street restaurant built around a broad, made-to-order Asian menu rather than a single cuisine. It emphasizes serving Chinese, Vietnamese, and Thai dishes together, accommodating groups with family dinners and catering, and offering direct delivery, including late-night service on select days.
+
+**Publishing recommendation:** Confirm the restaurant’s founding year, the owner’s preferred public biography, and any family or culinary-history details with ownership before adding a detailed “Our Story” page.
+
+## Popular Dishes
+
+These dishes are repeatedly featured by the restaurant website and/or highlighted in public menu and review sources:
+
+1. **Chicken Balls** — featured by the restaurant as a signature item
+2. **Pad Thai / Chicken Pad Thai** — featured on the website and menu
+3. **Wor Wonton Soup** — featured on the website
+4. **Special Cantonese Chow Mein** — featured on the website
+5. **Shanghai Noodles** — highlighted by the restaurant and public listings
+6. **Lemongrass Vermicelli** — highlighted by the restaurant as a Vietnamese-style option
+
+Additional menu-friendly items to feature: spring rolls, deep-fried wontons, Singapore noodles, chop suey, fried rice, lemon chicken, sweet-and-sour pork, and family dinners.
+
+## Reviews
+
+### Review Availability Note
+
+Only four Tripadvisor reviews were available in the source reviewed. Therefore, it is not possible to provide five verified reviews from that source without inventing a fifth review. The review excerpts below include the available named reviews and retain a negative review for accuracy and transparency.
+
+| Reviewer | Rating | Review Summary / Excerpt |
+|---|---:|---|
+| finklemack | 5/5 | Called Dewdney Garden “the best Chinese food in Regina,” praised the freshness, said food is cooked fresh for each order, and described it as a hidden gem. |
+| Avy67 | 5/5 | “Great find”; praised the food, reception, and atmosphere. Note: some wording in this review appears unrelated to this Regina restaurant, so it should not be used as marketing copy without verification. |
+| Sheanne N | 4/5 | Described the Chinese/Vietnamese food as good, not greasy, and reasonably priced; also noted the restaurant’s apology and offer to replace a missed item. |
+| George D | 1/5 | Reported concerns about an order, including undercooked items. This review is included for completeness and should be handled through factual, professional reputation-management practices rather than promotional use. |
+
+## Maps Iframe
+
+```html
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.308473591472!2d-104.5581105!3d50.4539802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x531c1f94bcfcffa1%3A0x175ab233327d24aa!2sDewdney%20Garden!5e0!3m2!1sen!2sca!4v1790732723212!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+```
+
+## Service Area Pages
+
+NEARBY PRIORITY SERVICE AREAS
+
+Eastview, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Eastview
+
+Glen Elm Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Glen Elm Park
+
+Glen Elm, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Glen Elm
+
+Douglas Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Douglas Park
+
+Glencairn, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Glencairn
+
+Core Group, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Core Group
+
+Downtown, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Downtown
+
+Heritage, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Heritage
+
+Cathedral, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Cathedral
+
+Lakeview, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Lakeview
+
+Wascana View, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Wascana View
+
+Gardiner Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Gardiner Park
+
+Whitmore Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Whitmore Park
+
+Crescents, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Crescents
+
+SECONDARY SERVICE AREAS
+
+Arcola East-South Side, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Arcola East-South Side
+
+University Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for University Park
+
+University Park East, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for University Park East
+
+The Creeks, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for The Creeks
+
+Wood Meadows, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Wood Meadows
+
+Windsor Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Windsor Park
+
+Gardiner Heights, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Gardiner Heights
+
+Walsh Acres, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Walsh Acres
+
+Coronation Park, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Coronation Park
+
+Uplands, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Uplands
+
+Normanview, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Normanview
+
+Harbour Landing, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Harbour Landing
+
+Hawkstone, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Hawkstone
+
+Westerra, Regina, SK — Asian fusion food near me, delivery, takeout, dine-in, catering for Westerra
+
+## Targeted Local SEO Keywords
+
+### Scoring Key
+
+- **Search volume:** Estimated local relative demand, not keyword-tool measurements.
+- **Local competition:** Estimated level of local organic/map competition.
+- **Intent:** Priority reflects readiness to order, book, or visit.
+
+### 1. Primary Location + Cuisine Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| Asian fusion restaurant Regina | High | Medium | High — Priority 1 |
+| Chinese Vietnamese Thai restaurant Regina | Medium | Low | High — Priority 1 |
+| Chinese food Regina | High | High | High — Priority 2 |
+| Thai food Regina | High | High | High — Priority 2 |
+| Vietnamese food Regina | High | High | High — Priority 2 |
+| Asian fusion restaurant near me | High | High | High — Priority 2 |
+| Chinese food near Eastview Regina | Low | Low | High — Priority 1 |
+| Asian food near Glen Elm Regina | Low | Low | High — Priority 1 |
+| late night Chinese food Regina | Medium | Medium | High — Priority 1 |
+| Chinese takeout Regina | High | High | High — Priority 2 |
+| Asian food delivery Regina | Medium | Medium | High — Priority 1 |
+| restaurant near Cavendish Street Regina | Low | Low | High — Priority 1 |
+
+### 2. Long-Tail Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| authentic Chinese Vietnamese Thai food in Regina | Low | Low | High — Priority 1 |
+| fresh made to order Asian food Regina | Low | Low | High — Priority 1 |
+| family dinner Chinese food Regina | Medium | Medium | High — Priority 1 |
+| late night Asian food delivery Regina | Medium | Low | High — Priority 1 |
+| late night Chinese takeout Regina | Medium | Medium | High — Priority 1 |
+| MSG free Chinese food Regina | Low | Low | High — Priority 1 |
+| affordable Chinese Vietnamese food Regina | Medium | Medium | High — Priority 2 |
+| best pad Thai in Regina | Medium | High | High — Priority 2 |
+| best wor wonton soup Regina | Medium | Medium | High — Priority 1 |
+| cozy family friendly Asian restaurant Regina | Low | Medium | Medium — Priority 2 |
+| catering Chinese food for groups Regina | Low | Medium | High — Priority 1 |
+| Asian food for birthday dinner Regina | Low | Medium | Medium — Priority 2 |
+| Asian food near hotels in Regina | Low | Medium | High — Priority 2 |
+| Chinese food open late in Regina | Medium | Medium | High — Priority 1 |
+| Vietnamese noodle bowls Regina takeout | Low | Low | High — Priority 1 |
+
+### 3. Dish-Specific Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| best pad Thai near me Regina | Medium | High | High — Priority 2 |
+| chicken pad Thai Regina | Medium | Medium | High — Priority 1 |
+| wor wonton soup Regina | Medium | Medium | High — Priority 1 |
+| Special Cantonese chow mein Regina | Low | Low | High — Priority 1 |
+| Shanghai noodles Regina | Low | Low | High — Priority 1 |
+| lemongrass vermicelli Regina | Low | Medium | High — Priority 1 |
+| chicken balls Regina | Medium | Medium | High — Priority 2 |
+| Singapore noodles Regina | Low | Medium | High — Priority 2 |
+
+### 4. Service-Focused Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| order Asian food online Regina | Medium | Medium | Very high — Priority 1 |
+| Chinese food delivery Regina | High | High | Very high — Priority 2 |
+| Chinese takeout Regina | High | High | Very high — Priority 2 |
+| Asian food pickup Regina | Medium | Medium | Very high — Priority 1 |
+| order pad Thai online Regina | Low | Medium | Very high — Priority 1 |
+| late night food delivery Regina | High | High | Very high — Priority 2 |
+| Chinese catering Regina | Medium | High | High — Priority 2 |
+| Asian catering for parties Regina | Low | Medium | High — Priority 1 |
+| family meal takeout Regina | Medium | Medium | Very high — Priority 1 |
+| direct restaurant delivery Regina Asian food | Low | Low | Very high — Priority 1 |
+
+### 5. Experience / Occasion Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| family dinner Asian food Regina | Medium | Medium | High — Priority 1 |
+| casual date night Asian restaurant Regina | Low | Medium | Medium — Priority 2 |
+| birthday dinner Chinese food Regina | Low | Medium | Medium — Priority 2 |
+| late night dinner Regina | High | High | High — Priority 2 |
+| late night food Regina | High | High | High — Priority 2 |
+| group dinner Chinese food Regina | Low | Medium | High — Priority 1 |
+| takeout dinner for family Regina | Medium | Medium | Very high — Priority 1 |
+| comfort food delivery Regina | Medium | Medium | High — Priority 2 |
+| dinner near Eastview Regina | Low | Medium | High — Priority 1 |
+| dinner near Glen Elm Regina | Low | Low | High — Priority 1 |
+| convenient Asian food near downtown Regina | Low | Medium | High — Priority 2 |
+| Asian food after work Regina | Low | Low | High — Priority 1 |
+
+### 6. Competitive Positioning Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| late night Asian fusion restaurant Regina | Low | Low | High — Priority 1 |
+| made to order Asian food Regina | Low | Low | High — Priority 1 |
+| Chinese Vietnamese Thai food in one restaurant Regina | Low | Low | High — Priority 1 |
+| casual family Asian restaurant Regina | Low | Medium | Medium — Priority 2 |
+| direct delivery Asian restaurant Regina | Low | Low | Very high — Priority 1 |
+| MSG free Asian food Regina | Low | Low | High — Priority 1 |
+| family dinner Chinese restaurant Regina | Medium | Medium | High — Priority 1 |
+| late night Chinese restaurant Regina | Medium | Medium | High — Priority 1 |
+
+### 7. Voice Search & Mobile Keywords
+
+| Keyword | Volume | Competition | Intent / Priority |
+|---|---|---|---|
+| where can I get Asian food near me in Regina | Low | Medium | Very high — Priority 1 |
+| what Chinese restaurant is open late in Regina | Medium | Medium | Very high — Priority 1 |
+| where can I order pad Thai near me | Medium | High | Very high — Priority 2 |
+| where can I get wor wonton soup in Regina | Low | Medium | Very high — Priority 1 |
+| Asian food delivery near me open now | High | High | Very high — Priority 2 |
+| Chinese takeout near me open now | High | High | Very high — Priority 2 |
+| where can I get food late at night in Regina | Medium | High | Very high — Priority 2 |
+| what is the best Chinese Vietnamese Thai restaurant in Regina | Low | Medium | High — Priority 1 |
+| where can I order family dinner takeout in Regina | Low | Medium | Very high — Priority 1 |
+| is there Asian food near Eastview Regina | Low | Low | Very high — Priority 1 |
+
+## Keyword Implementation Guide
+
+| Category | Best Website Placement | Recommended Implementation |
+|---|---|---|
+| Primary location + cuisine | Home-page title tag, home-page H1, location page, Google Business Profile categories/services | Title tag: `Asian Fusion Restaurant in Regina | Chinese, Vietnamese & Thai | Dewdney Garden`. H1: `Chinese, Vietnamese & Thai Food in Regina`. |
+| Long-tail | Home-page body copy, FAQ, service pages, blog posts, menu introductions | Add naturally in 1–2 short paragraphs and FAQs; avoid repeating the same phrase unnaturally. |
+| Dish-specific | Individual menu item descriptions, menu category headings, schema markup, dish-focused landing pages | Example H2: `Pad Thai, Wor Wonton Soup & Shanghai Noodles in Regina`. Use descriptive menu copy, ingredients, and order buttons. |
+| Service-focused | Sticky “Order Online” button, ordering landing page, title/meta, footer service links | Create indexable pages or page sections for pickup, direct delivery, family dinners, and catering. |
+| Experience / occasion | Family-dinner page, catering page, late-night page, promotional banners | Match content to the occasion: family portions, group ordering, late-night hours, and catering inquiry CTA. |
+| Competitive positioning | Home-page value proposition, About page, structured data descriptions | State differentiators only when operationally verified: made-to-order food, Chinese/Vietnamese/Thai selection, direct delivery, late-night availability, and MSG-free requests. |
+| Voice / mobile | FAQ schema, concise Q&A blocks, Google Business Profile posts | Use question-and-answer headings such as `What Chinese restaurant is open late in Regina?` followed by a clear, factual answer. |
+
+### Title Tag Templates
+
+- `Asian Fusion Restaurant in Regina | Chinese, Vietnamese & Thai | Dewdney Garden`
+- `Chinese Food Delivery & Takeout in Regina | Dewdney Garden`
+- `Late-Night Asian Food in Regina | Order Dewdney Garden Online`
+- `Pad Thai, Wor Wonton Soup & Chow Mein in Regina | Dewdney Garden`
+- `Chinese Food Catering & Family Dinners in Regina | Dewdney Garden`
+
+### Meta Description Template
+
+`Order fresh, made-to-order Chinese, Vietnamese and Thai food from Dewdney Garden in Regina. Enjoy pad Thai, chow mein, wor wonton soup, family dinners, pickup, direct delivery and late-night service on select days.`
+
+### Navigation Labels
+
+- Home
+- Order Online
+- Menu
+- Family Dinners
+- Catering
+- Late-Night Food
+- About Dewdney Garden
+- Contact & Hours
+
+### Recommended On-Page Structure
+
+1. Use a single, location-rich H1 on the home page: `Chinese, Vietnamese & Thai Food in Regina`.
+2. Add a prominent direct-order button above the fold: `Order Online for Pickup or Delivery`.
+3. Use menu category headings that include searchable dishes, such as `Pad Thai & Thai Noodles`, `Vietnamese Vermicelli Bowls`, `Chow Mein & Chinese Noodles`, and `Soups & Appetizers`.
+4. Build dedicated, substantive pages for `Delivery & Takeout`, `Family Dinners`, `Catering`, and `Late-Night Food in Regina` only if the information is accurate and maintained.
+5. Add unique local copy for each service-area page; do not publish thin duplicate pages that only replace a neighbourhood name.
+6. Add Restaurant, LocalBusiness, Menu, OpeningHoursSpecification, and aggregate-rating schema only when the supporting information is accurate and eligible.
+
+## Source Notes
+
+- Restaurant website: cuisine positioning, made-to-order food, featured dishes, direct delivery, family dinners, gift certificates, and MSG-free requests.
+- Restaurant menu search listing: noodle-menu examples including Singapore noodles, Shanghai noodles, Special Dewdney Garden Noodle, and Pad Thai.
+- Public review listing: Tripadvisor rating/reviews and reviewer names.
+- Public directory listing: owner name listed as Hong Chen; this should be confirmed directly with the business before publication.
+- City of Regina neighbourhood resources: neighbourhood naming reference. Service-area driving-distance bands should be validated in Google Maps before final publication because live routes and access conditions can change.

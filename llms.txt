@@ -1,0 +1,48 @@
+# Dewdney Garden
+
+> Dewdney Garden is a casual Asian-fusion restaurant at 88 Cavendish St, Regina, Saskatchewan, serving Chinese, Vietnamese, and Thai-inspired dishes from one made-to-order menu. The restaurant is known for chicken balls, pad Thai, wor wonton soup, Special Cantonese chow mein, lemongrass vermicelli, and Shanghai noodles, alongside spring rolls, chop suey, sweet-and-sour pork, and Singapore noodles.
+
+Key facts:
+- Address: 88 Cavendish St, Regina, SK S4N 5G7
+- Phone: (306) 789-4484
+- Online ordering: https://orders.iorders.online/dewdney-garden-regina-5943/
+- Hours: Monday & Tuesday 4:00 p.m.–9:30 p.m.; Wednesday & Thursday 4:00 p.m.–12:30 a.m.; Friday & Saturday 3:00 p.m.–1:30 a.m.; Sunday 3:00 p.m.–9:30 p.m. (holiday hours may vary)
+- Cuisine: Chinese, Vietnamese, and Thai-inspired Asian fusion
+- Service options: dine-in, takeout/pickup, direct online ordering, late-night delivery on select days, family dinners, catering for groups, gift certificates, MSG-free preparation available upon request
+
+## Main Pages
+
+- [Home](https://dewdneygarden.ca/index.html): Landing page with restaurant highlights, popular dishes, hours, delivery areas, and FAQ.
+- [Menu](https://dewdneygarden.ca/menu.html): Full menu with categories, dishes, prices, and dietary information.
+- [Our Food](https://dewdneygarden.ca/our-food.html): Cuisine philosophy, ingredients, and how dishes are prepared.
+- [About](https://dewdneygarden.ca/about.html): Restaurant story, ownership, and brand values.
+- [Contact Us](https://dewdneygarden.ca/contact-us.html): Location, hours, phone number, and contact form.
+- [Regina Location Page](https://dewdneygarden.ca/regina_asian-fusion_restaurant.html): Directions, hours, and details for the Cavendish Street location.
+
+## Service Pages
+
+- [Chinese Food Delivery in Regina](https://dewdneygarden.ca/tags/chinese-food-delivery-regina.html): Citywide delivery information, coverage areas, and how to order.
+- [Chinese Takeout in Regina](https://dewdneygarden.ca/tags/chinese-takeout-regina.html): Takeout and pickup information for the Cavendish Street location.
+
+## Dish Pages
+
+- [Chicken Balls](https://dewdneygarden.ca/tags/dishes/chicken-balls-regina.html): Crispy, made-to-order chicken with house sweet-and-sour sauce.
+- [Pad Thai](https://dewdneygarden.ca/tags/dishes/chicken-pad-thai-regina.html): Wok-tossed rice noodles with chicken, egg, and bean sprouts.
+- [Wor Wonton Soup](https://dewdneygarden.ca/tags/dishes/wor-wonton-soup-regina.html): Hearty broth with pork wontons, shrimp, chicken, and vegetables.
+- [Special Cantonese Chow Mein](https://dewdneygarden.ca/tags/dishes/special-cantonese-chow-mein-regina.html): Crispy noodles with chicken, beef, shrimp, and vegetables in savoury brown sauce.
+- [Shanghai Noodles](https://dewdneygarden.ca/tags/dishes/shanghai-noodles-regina.html): Thick, wok-tossed noodles with fresh vegetables in savoury soy sauce.
+- [Lemongrass Vermicelli](https://dewdneygarden.ca/tags/dishes/lemongrass-vermicelli-regina.html): Grilled lemongrass protein over vermicelli noodles with fresh herbs.
+- [Spring Rolls](https://dewdneygarden.ca/tags/dishes/spring-rolls-regina.html): Classic made-to-order appetizer, perfect for sharing.
+- [Chop Suey](https://dewdneygarden.ca/tags/dishes/chop-suey-regina.html): Chicken, beef, shrimp, and fresh vegetables in a savoury sauce over steamed rice.
+- [Sweet and Sour Pork](https://dewdneygarden.ca/tags/dishes/sweet-and-sour-pork-regina.html): Crispy battered pork with pineapple and peppers in a tangy-sweet sauce.
+- [Singapore Noodles](https://dewdneygarden.ca/tags/dishes/singapore-noodles-regina.html): Curry-spiced rice vermicelli with shrimp, barbecue pork, and vegetables.
+
+## Delivery Area Pages
+
+Neighbourhood-specific delivery pages for Regina, SK, each covering local delivery, takeout, dine-in, and catering: Eastview, Glen Elm Park, Glen Elm, Douglas Park, Glencairn, Core Group, Downtown, Heritage, Cathedral, Lakeview, Wascana View, Gardiner Park, Whitmore Park, Crescents, Arcola East-South Side, University Park, University Park East, The Creeks, Wood Meadows, Windsor Park, Gardiner Heights, Walsh Acres, Coronation Park, Uplands, Normanview, Harbour Landing, Hawkstone, and Westerra. Each page lives at `https://dewdneygarden.ca/tags/places/<neighbourhood>-delivery-from-dewdney-garden.html` and is linked from the sitemap and the home page FAQ.
+
+## Optional
+
+- [Sitemap](https://dewdneygarden.ca/sitemap.xml): Full list of indexable pages on the site.
+- [Privacy Policy](https://dewdneygarden.ca/privacy-policy.html): Site privacy policy.
+- [Terms of Use](https://dewdneygarden.ca/terms-of-use.html): Site terms of use.

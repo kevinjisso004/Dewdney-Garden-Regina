@@ -1,0 +1,15 @@
+/* ============================================================
+   THEME: Dewdney Garden (red / green / gold from logo)
+   Re-skin the entire site by editing these five variables.
+   Every shade, tint, border, and glow is derived from them
+   automatically in style.css.
+   DO NOT add layout, grid, flexbox, or spacing here.
+   ============================================================ */
+
+:root {
+  --brand:   #d01c00;   /* 1 · primary  — buttons, links, accents     */
+  --brand-2: #006030;   /* 2 · secondary — green bands, footer        */
+  --brand-3: #f0d020;   /* 3 · highlight — stars, badges, small hits  */
+  --canvas:  #faf6f0;   /* 4 · warm section background                */
+  --ink:     #201d1a;   /* 5 · text                                   */
+}
